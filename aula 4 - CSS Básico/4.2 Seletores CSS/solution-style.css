@@ -1,0 +1,24 @@
+/* 5. Seletor Universal: Aplica fonte/estilo básico na página inteira */
+* {
+    font-family: serif;
+}
+
+/* 1. Seletor de Elemento (tag <p>): Deixa o texto vermelho */
+p {
+    color: red;
+}
+
+/* 2. Seletor de Classe (.seletor-classe): Deixa o texto cinza */
+.seletor-classe {
+    color: gray;
+}
+
+/* 3. Seletor de ID (#seletor-id): Deixa o texto verde */
+#seletor-id {
+    color: green;
+}
+
+/* 4. Seletor de Atributo ([data-tipo]): Deixa o texto azul */
+[data-tipo="atributo"] {
+    color: blue;
+}
