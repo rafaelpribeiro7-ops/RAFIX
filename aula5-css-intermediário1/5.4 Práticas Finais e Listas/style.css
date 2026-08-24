@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+/* Estilização de Lista e Sombras */
+.lista-limpa {
+    list-style-type: none;
+    padding: 0;
+}
+
+.titulo-sombra {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Efeito Hover e Opacidade */
+.botao-hover {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.botao-hover:hover {
+    background-color: #0056b3;
+}
+
+.imagem-opaca {
+    opacity: 0.5;
+}
+
+/* Desafio: Cartão de Visita Digital */
+.cartao {
+    width: 250px;
+    background-color: white;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.foto-perfil {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Torna a imagem circular */
+    object-fit: cover;
+}
+
+.nome {
+    font-weight: bold;
+    margin: 10px 0 5px 0;
+}
+
+.descricao {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.btn-contato {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: #28a745;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-contato:hover {
+    background-color: #218838;
+}

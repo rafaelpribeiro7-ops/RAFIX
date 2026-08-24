@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+.texto-grande {
+    font-size: 24px;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.link-sem-linha {
+    text-decoration: none;
+    color: blue;
+}

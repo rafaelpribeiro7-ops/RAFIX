@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+/* Quadrado 200x200, cor de fundo, borda e padding */
+.caixa-1 {
+    width: 200px;
+    height: 200px;
+    background-color: #e0f2fe;
+    border: 2px solid black;
+    padding: 15px;
+    margin-bottom: 20px; /* Margem para afastar da próxima caixa */
+}
+
+.caixa-2 {
+    width: 200px;
+    height: 100px;
+    background-color: #fef9c3;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.botao-arredondado {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 12px;
+}

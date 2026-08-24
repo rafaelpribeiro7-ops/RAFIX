@@ -1,0 +1,37 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: #333333;
+}
+
+.destaque {
+    color: red;
+}
+
+#principal {
+    background-color: #d1e7dd;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.caixa-experimento {
+    background-color: #f0f0f0;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.texto-rgb {
+    color: rgb(0, 128, 0);
+}body {
+    background-color: #dbebe5; /* Azul/Verde suave mais visível */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
